@@ -1,5 +1,9 @@
 # UAS---Desain-dan-Analisis-Algoritma
-Terdiri dari:
+Kelompok 9:
+Muhamad Fadhil Mulyana - 2023071013
+Azi Dwipurnama - 2023071024
+
+Folder UAS ini terdiri dari:
 1. Dataset
 2. Jurnal Pendukung
 3. Masalah Masyarakat
